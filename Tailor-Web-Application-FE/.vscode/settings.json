@@ -1,0 +1,33 @@
+{
+    "colorize.colorized_colors": [
+
+        "BROWSERS_COLORS",
+        "HEXA",
+        "RGB",
+        "HSL"
+    ],
+    "colorize.include": [
+
+
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl",
+        "**/*.js"
+    ],
+    "colorize.languages": [
+
+
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "js"
+    ]
+}

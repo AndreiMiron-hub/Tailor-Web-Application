@@ -1,0 +1,144 @@
+{
+    "lbl.home.helmet": "Acasa",
+    "lbl.about.helmet": "Despre noi",
+    "lbl.services.helmet": "Servicii",
+    "lbl.blog.helmet": "Blog",
+    "lbl.contact.helmet": "Contact",
+    "lbl.appointment.helmet": "Programare",
+    
+    "lbl.home.header": "Acasa",
+    "lbl.services.header": "Servicii",
+    "lbl.blog.header": "Articole",
+    "lbl.contact.header": "Contact",
+    "lbl.about.header": "Despre noi",
+    "lbl.appointment.button.header": "Programare",
+    "lbl.callAnytime.button.header": "Sunati oricand",
+
+    "lbl.callAnyTime.footer": "Nu ezitati sa ne contactati oricand aveti nevoie",
+    "lbl.links.footer": "Link-uri",
+    "lbl.legal.footer": "Legal",
+    "lbl.help.footer": "Ajutor",
+    "lbl.tac.footer": "Termeni si conditii",
+    "lbl.pc.footer": "Politica de confidentialitate",
+    "lbl.visitUs.footer": "Viziteaza-ne acum",
+    "lbl.contactus.footer": "Contacteaza-ne",
+    "lbl.galery.footer": "Galerie",
+    "lbl.meetTheTeam.footer": "Intalneste echipa",
+
+    "lbl.services.home": "Servicii oferite",
+    "lbl.meetTheTailors.home": "Croitorii nostri",
+
+    "lbl.needATailor.home.contactSection": "Ai nevoie de un croitor ? Contacteaza-ne",
+    "lbl.contactus.contactSection": "Contacteaza-ne...",
+
+    "lbl.news.newsSection": "Ultimele noutati",
+    "lbl.newsLonger.newsSection": "Ultimele stiri si articole oferite de echipa noastra",
+    
+    "lb.readMore.newsCard": "Citeste in continuare...",
+    
+    "lb.suitsAndShirts.serviceCard": "Costume si camasi",
+    "lb.altering.serviceCard": "Modificari",
+    "lb.orders.serviceCard": "Comenzi",
+    
+    "lbl.aboutus.about": "Despre noi",
+    "lbl.titleAbout.about.aboutSection": "Coasem exact dupa cerintele voastre",
+    "lbl.contentAbout.about.aboutSection": "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn.",
+
+    "lbl.videoText.about": "Te poti baza pe croitorii nostri pentru a-ti face un costum de calitate",
+
+    "lbl.blog.recentPostsSection": "Ultimele postari",
+
+    "lbl.blogCategory.categoriesSection": "Categorii",
+    "lbl.blogSuits.categoriesSection": "Costume",
+    "lbl.categoryJackets.categoriesSection": "Jachete",
+    "lbl.categoryTaylering.categoriesSection": "Croit",
+    "lbl.categoryCustomDress.categoriesSection": "Rochii comenzi",
+    "lbl.categoryClothing.categoriesSection": "Haine",                                           
+
+    "lbl.sendEmail.contact.contactSection": "Trimite-ne un email",
+    "lbl.call247.contact.contactSection": "Suna oricand",
+    "lbl.visitAnytime.contact.contactSection": "Viziteaza-ne oricand",
+
+    "lbl.sendEmailLong.contact.contactSection": "Trimite-ne oricand un mesaj",
+
+    "lbl.nume.contact.sendFormSection": "Numele tau ...",
+    "lbl.email.contact.sendFormSection": "Email-ul tau ...",
+    "lbl.numarTel.contact.sendFormSection": "Numarul de telefon ...",
+    "lbl.subiect.contact.sendFormSection": "Subiect ...",
+    "lbl.text.contact.sendFormSection": "Text ...",
+    "lbl.trimite.contact.sendFormSection": "Trimite mesajul",
+
+    "lbl.products.title": "Produse",
+
+    "lbl.login.welcome": "Salut, bine ai revenit !",
+    "lbl.login.login": "Conecteaza-te",
+    "lbl.footer.login": "Conectare",
+    "lbl.login.user": "Email",
+    "lbl.login.password": "Parola",
+    "lbl.login.rememberMe": "Tine-ma minte",
+
+
+    "lbl.dashboard.products": "Produse",
+    "lbl.dashboard.newProduct": "Adauga produs",
+
+    "lbl.dashboard.articles": "Blog",
+    "lbl.dashboard.newArticle": "Adauga articol",
+
+    "err.already_registered" : "Contul exista deja",
+    "err.account_not_found" : "Contul nu exista",
+    "err.generic" : "Eroare generica",
+
+
+    "lbl.account-delete-confirmation": "Sigur doresti sa stergi acest cont ?",
+    "lbl.product-delete-confirmation": "Sigur doresti sa stergi acest produs ?",
+    "lbl.blog-delete-confirmation": "Sigur doresti sa stergi acest articol ?",
+
+    "lbl.button.ok": "Ok",
+    "lbl.button.cancel": "Cancel",
+    
+    "lbl.staff-description-required": "Descrierea",
+    "lbl.text-required": "Continutul",
+    "lbl.text": "Continut",
+    "lbl.is-required": " este obligatoriu",
+    "lbl.is-height-required": " este obligatorie",
+    "lbl.staff-description": "Descriere",
+    "lbl.add-news": "Adauga un nou",
+    "lbl.title-required": "Titlul",
+    "lbl.upload-image": "Incarca o imagine",
+    "lbl.image-preview": "Previzualizeaza imaginea",
+
+    "lbl.news-status": "Statusul postarii",
+    "lbl.news-status-draft": "Salveaza ca schita",
+    "lbl.news-status-post": "Posteaza imediat",
+    "lbl.news-status-scheduled": "Programeaza postarea",
+    "lbl.title": "Titlu",
+    "lbl.name": "Nume",
+    "lbl.delete-confirmation": "Sunteti sigur ca doriti sa stergeti ?",
+    
+    "lbl.product.color": "Culoare",
+    "lbl.product.material": "Material",
+    "lbl.product.price": "Pret",
+    "lbl.product.description": "Descriere",
+    "lbl.product.quantity": "Cantitate",
+    "lbl.product.category": "Categoria",
+    "lbl.product.size": "Marime",
+    "lbl.product.status": "Status",
+
+    "lbl.product-status-available": "Available",
+    "lbl.product-status-outofstock": "Out of stock",
+    "lbl.product-status-reserved": "Reserved",
+
+    "btn.back": "Inapoi",
+    "btn.cancel": "Cancel",
+    "btn.new-sponsors": "Adauga sponsor",
+    "btn.new-club-trophy": "Adauga un trofeu",
+    "btn.ok": "OK",
+    "btn.sign-in": "Conecteaza-te",
+    "btn.add": "Adauga",
+    "btn.save": "Salveaza",
+    "btn.submit": "Submit",
+    "btn.reset": "Reset",
+    "lbl.add-appointment": "Adauga programare",
+    "lbl.end": "end"
+
+}

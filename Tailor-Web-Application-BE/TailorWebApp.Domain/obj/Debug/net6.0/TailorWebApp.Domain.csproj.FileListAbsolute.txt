@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\bin\Debug\net6.0\TailorWebApp.Domain.deps.json
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\bin\Debug\net6.0\TailorWebApp.Domain.runtimeconfig.json
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\bin\Debug\net6.0\TailorWebApp.Domain.dll
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\bin\Debug\net6.0\TailorWebApp.Domain.pdb
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.AssemblyInfo.cs
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.dll
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\refint\TailorWebApp.Domain.dll
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.pdb
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\TailorWebApp.Domain.genruntimeconfig.cache
+C:\Users\andre\Desktop\Licenta\Aplicatie\TailorWebApp.BE\TailorWebApp.Domain\obj\Debug\net6.0\ref\TailorWebApp.Domain.dll

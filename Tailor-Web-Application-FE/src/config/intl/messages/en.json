@@ -1,0 +1,147 @@
+{
+    "lbl.home.helmet": "Home",
+    "lbl.about.helmet": "About",
+    "lbl.services.helmet": "Services",
+    "lbl.blog.helmet": "Blog",
+    "lbl.contact.helmet": "Contact",
+    "lbl.appointment.helmet": "Appointment",
+
+    "lbl.home.header": "Home",
+    "lbl.services.header": "Services",
+    "lbl.blog.header": "Articles",
+    "lbl.contact.header": "Contact",
+    "lbl.about.header": "About",
+    "lbl.appointment.button.header": "Appointment",
+    "lbl.callAnytime.button.header": "Call anytime",
+
+    "lbl.callAnyTime.footer": "Call us anytime",
+    "lbl.links.footer": "Links",
+    "lbl.legal.footer": "Legal",
+    "lbl.help.footer": "Help",
+    "lbl.tac.footer": "Terms and conditions",
+    "lbl.pc.footer": "Confidentiality policy",
+    "lbl.visitUs.footer": "Visit us now",
+    "lbl.contactus.footer": "Contact us",
+    "lbl.galery.footer": "Galery",
+    "lbl.meetTheTeam.footer": "Meet the team",
+
+    "lbl.services.home": "Services",
+    "lbl.meetTheTailors.home": "Meet our tailors",
+
+
+    "lbl.needATailor.home.contactSection": "Do you need a tailor ? Contact us",
+    "lbl.contactus.contactSection": "Contact us...",
+
+    "lbl.news.newsSection": "Latest news",
+    "lbl.newsLonger.newsSection": "Latest news and articles offered by our team",
+
+    "lb.readMore.newsCard": "Read more...",
+
+    "lb.suitsAndShirts.serviceCard": "Costume si camasi",
+    "lb.altering.serviceCard": "Altering",
+    "lb.orders.serviceCard": "Orders",
+    
+    "lbl.aboutus.about": "About us",
+    "lbl.titleAbout.about.aboutSection": "We Only Stitch on Your Demands",
+    "lbl.contentAbout.about.aboutSection": "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn.",
+
+    "lbl.videoText.about": "Te poti baza pe croitorii nostri pentru a-ti face un costum de calitate",
+
+    "lbl.blog.recentPostsSection": "RecentPosts",
+
+    "lbl.blogCategory.categoriesSection": "Categories",
+    "lbl.blogSuits.categoriesSection": "Suits",
+    "lbl.categoryJackets.categoriesSection": "Jackets",
+    "lbl.categoryTaylering.categoriesSection": "Taylering",
+    "lbl.categoryCustomDress.categoriesSection": "Custom Dress",
+    "lbl.categoryClothing.categoriesSection": "Clothing",
+
+    "lbl.sendEmail.contact.contactSection": "Send an email",
+    "lbl.call247.contact.contactSection": "Call 24/7",
+    "lbl.visitAnytime.contact.contactSection": "Visit anytime",
+
+    "lbl.sendEmailLong.contact.contactSection": "Send us a message anytime",
+    "lbl.rightText.contact.contactSection": "Quisque id tempus nibh, in varius nunc. Mauris non convallis nulla. Morbi at urna hendrerit, finibus justo a, pellentesque diam. Vivamus lacus metus, placerat ullamcorper turpis et.",
+
+    "lbl.nume.contact.sendFormSection": "Name ...",
+    "lbl.email.contact.sendFormSection": "Email ...",
+    "lbl.numarTel.contact.sendFormSection": "Phone number ...",
+    "lbl.subiect.contact.sendFormSection": "Subject ...",
+    "lbl.text.contact.sendFormSection": "Text ...",
+    "lbl.trimite.contact.sendFormSection": "Send message",
+
+    "lbl.products.title": "Produse",
+
+    "lbl.login.welcome": "Hi, welcome back !",
+    "lbl.login.login": "Sign in",
+    "lbl.footer.login": "Connect",
+
+    "lbl.login.user": "Email",
+    "lbl.login.password": "Password",
+    "lbl.login.rememberMe": "Remember me",
+
+    "lbl.dashboard.products": "Products",
+    "lbl.dashboard.newProduct": "Adauga produs",
+
+    "lbl.dashboard.articles": "Blog",
+    "lbl.dashboard.newArticle": "Adauga articol",
+
+    "err.already_registered" : "Account already exists",
+    "err.account_not_found" : "Account not found",
+    "err.generic" : "Generic error",
+
+
+    "lbl.account-delete-confirmation": "Are you sure you want to delete this account ?",
+    "lbl.product-delete-confirmation": "Are you sure you want to delete this product ?",
+    "lbl.blog-delete-confirmation": "Are you sure you want to delete this article ?",
+
+    "lbl.button.ok": "Ok",
+    "lbl.button.cancel": "Cancel",
+    
+
+    "lbl.staff-description": "Description",
+    "lbl.staff-description-required": "Description",
+    "lbl.text": "Content",
+    "lbl.text-required": "Content",
+    "lbl.is-required": " is required",
+    "lbl.is-height-required": " is required",
+    "lbl.add-news": "Add a new article",
+    "lbl.title-required": "Title",
+    "lbl.upload-image": "Upload image",
+    "lbl.image-preview": "Image preview",
+    "lbl.name": "Name",
+
+    "lbl.title": "Title",
+    "lbl.news-status": "News Status",
+    "lbl.news-status-draft": "Save as draft",
+    "lbl.news-status-post": "Post immediately",
+    "lbl.news-status-scheduled": "Schedule the post",
+
+    "lbl.product.color": "Color",
+    "lbl.product.material": "Material",
+    "lbl.product.price": "Price",
+    "lbl.product.description": "Description",
+    "lbl.product.quantity": "Quantity",
+    "lbl.product.category": "Category",
+    "lbl.product.size": "Size",
+    "lbl.product.status": "Status",
+    "lbl.delete-confirmation": "Sunteti sigur ca doriti sa stergeti ?",
+
+    "lbl.product-status-available": "Available",
+    "lbl.product-status-outofstock": "Out of stock",
+    "lbl.product-status-reserved": "Reserved",
+
+    "btn.back": "Back",
+    "btn.cancel": "Cancel",
+    "btn.new-sponsors": "Add sponsor",
+    "btn.new-club-trophy": "Adauga un trofeu",
+    "btn.ok": "OK",
+    "btn.sign-in": "Sign In",
+    "btn.add": "Add",
+    "btn.save": "Save",
+    "btn.submit": "Submit",
+    "btn.reset": "Reset",
+    "lbl.add-appointment": "Add appointment",
+
+    "lbl.end": "end"
+}

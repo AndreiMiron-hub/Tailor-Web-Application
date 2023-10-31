@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TailorWebApp.API", "TailorWebApp.API\TailorWebApp.API.csproj", "{E49DA382-E69E-4D27-9A04-3FFDFFFFA7B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{027C8CD7-8D46-4D50-8B23-55B1B69055B7} = {027C8CD7-8D46-4D50-8B23-55B1B69055B7}
+		{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8} = {4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TailorWebApp.Domain", "TailorWebApp.Domain\TailorWebApp.Domain.csproj", "{027C8CD7-8D46-4D50-8B23-55B1B69055B7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{888A49F3-4430-409B-BF80-6046A7731BF6} = {888A49F3-4430-409B-BF80-6046A7731BF6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TailorWebApp.Application", "TailorWebApp.Application\TailorWebApp.Application.csproj", "{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{888A49F3-4430-409B-BF80-6046A7731BF6} = {888A49F3-4430-409B-BF80-6046A7731BF6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TailorWebApp.Infrastructure", "TailorWebApp.Infrastructure\TailorWebApp.Infrastructure.csproj", "{759C1D33-E70C-4ACA-A449-AC22CE67C416}"
+	ProjectSection(ProjectDependencies) = postProject
+		{888A49F3-4430-409B-BF80-6046A7731BF6} = {888A49F3-4430-409B-BF80-6046A7731BF6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TailorWebApp.Utils", "TailorWebApp.Utils\TailorWebApp.Utils.csproj", "{888A49F3-4430-409B-BF80-6046A7731BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E49DA382-E69E-4D27-9A04-3FFDFFFFA7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49DA382-E69E-4D27-9A04-3FFDFFFFA7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49DA382-E69E-4D27-9A04-3FFDFFFFA7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49DA382-E69E-4D27-9A04-3FFDFFFFA7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027C8CD7-8D46-4D50-8B23-55B1B69055B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027C8CD7-8D46-4D50-8B23-55B1B69055B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027C8CD7-8D46-4D50-8B23-55B1B69055B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027C8CD7-8D46-4D50-8B23-55B1B69055B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0469CB-2ED0-4F1F-86E4-F9B08914DBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759C1D33-E70C-4ACA-A449-AC22CE67C416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759C1D33-E70C-4ACA-A449-AC22CE67C416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759C1D33-E70C-4ACA-A449-AC22CE67C416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759C1D33-E70C-4ACA-A449-AC22CE67C416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888A49F3-4430-409B-BF80-6046A7731BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888A49F3-4430-409B-BF80-6046A7731BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888A49F3-4430-409B-BF80-6046A7731BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888A49F3-4430-409B-BF80-6046A7731BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CDBCFE-EC83-4998-AABF-50935CEA56EB}
+	EndGlobalSection
+EndGlobal
